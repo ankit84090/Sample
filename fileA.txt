@@ -1,1 +1,1 @@
-"fileA is new file and just making random changes" 
+"fileA is new file and just making new changes" 
